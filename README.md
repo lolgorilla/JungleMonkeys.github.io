@@ -9,12 +9,12 @@ Jungle Monkeys VR Privacy Policy
 1. Understanding
 "Hardware ID" an amount of numbers specifically for a device or system
 "IP Address" an amount of numbers or characters specifically
- When you hear we, that is refering to Duttbust, The Developer(s)
+ When you hear we, that is refering to Flixzy, The Developer(s)
 
 2. The Data we collect
 
 A. Hardware ID
- Your Hardware ID is collected to be sent to Playfab and used to login to your Playfab/Capuchin VR Account
+ Your Hardware ID is collected to be sent to Playfab and used to login to your Playfab/Jungle Monkeys VR Account
 
 B. IP Address
  Your IP address is saved in your Playfab/Jungle Monkeys VR account
